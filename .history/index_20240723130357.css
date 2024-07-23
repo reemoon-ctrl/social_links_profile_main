@@ -37,7 +37,7 @@ body{
 .form-container a{
     font-size: 18px;
     width:100%;
-    padding:15px;
+    padding:20px;
     border:0px;
 }
 img{
@@ -55,7 +55,7 @@ h2{
     color:greenyellow;
 }
 p{
-    font-size: 17px;
+    font-size: 27px;
     color:#fff;
 }
 .form-container a{
