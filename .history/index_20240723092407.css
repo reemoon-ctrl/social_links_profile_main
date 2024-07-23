@@ -1,0 +1,13 @@
+*{
+    box-sizing: border-box;
+    margin:0px;
+    padding: 0px;
+}
+.form-container{
+    border:1px solid #ddd;
+    margin :auto;
+}
+footer{
+    position: ;
+    bottom: 0px;
+}

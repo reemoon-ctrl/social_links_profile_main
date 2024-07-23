@@ -1,0 +1,33 @@
+*{
+    box-sizing: border-box;
+    margin:0px;
+    padding: 0px;
+}
+html{
+    
+}
+body{
+    position: relative;
+    border:1px solid #ddd;
+    min-height: 100vh;
+   
+}
+.form-container{
+    display: flex;
+    border:1px solid #ddd;
+    margin :auto;
+    width: 300px;
+    
+}
+img{
+    width: 100px;
+    height: 100px;
+}
+button{
+    display: block;
+}
+footer{
+    position: absolute;
+    bottom: 0px;
+    margin: auto;
+}

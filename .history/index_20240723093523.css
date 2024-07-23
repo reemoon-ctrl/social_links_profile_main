@@ -1,0 +1,25 @@
+*{
+    box-sizing: border-box;
+    margin:0px;
+    padding: 0px;
+}
+html{
+    
+}
+body{
+    position: relative;
+   
+}
+.form-container{
+    border:1px solid #ddd;
+    margin :auto;
+    
+}
+button{
+    display: block;
+}
+footer{
+    position: absolute;
+    bottom: 0px;
+    margin: auto;
+}

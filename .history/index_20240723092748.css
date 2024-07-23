@@ -1,0 +1,19 @@
+*{
+    box-sizing: border-box;
+    margin:0px;
+    padding: 0px;
+}
+body{
+    position: relative;
+    min-height: 100%;
+}
+.form-container{
+    border:1px solid #ddd;
+    margin :auto;
+    float:inline-end;
+}
+footer{
+    position: absolute;
+    bottom: 0px;
+    
+}
